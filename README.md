@@ -40,7 +40,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/smartcaption-ai.git
+git clone https://github.com/DushyJacks/CaptionAI.git
 cd smartcaption-ai
 
 # Install dependencies
